@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/rkmishra2003" target="blank"><img src="https://img.shields.io/twitter/follow/rkmishra2003?logo=twitter&style=for-the-badge" alt="rkmishra2003" /></a> </p>
 
-- 🔭 I’m currently working on [YoourHelper's E-commerse service Website and App](https://yoourhelper.com)
 
 - 🌱 I’m currently learning **React Native and Linux**
 
