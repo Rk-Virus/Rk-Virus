@@ -4,15 +4,15 @@
 <p align="left"> <a href="https://twitter.com/rkmishra2003" target="blank"><img src="https://img.shields.io/twitter/follow/rkmishra2003?logo=twitter&style=for-the-badge" alt="rkmishra2003" /></a> </p>
 
 
-- 🌱 I’m currently learning **React Native and Linux**
+- 🌱 I’m currently learning **Vue.js and Docker**
 
 - 👨‍💻 All of my projects are available at [github.com/rk-virus](github.com/rk-virus)
 
-- 📝 I regularly write articles on [https://www.learnwebwithrk.wordpress.com/blog/](https://www.learnwebwithrk.wordpress.com/blog/)
+- 📝 I regularly write articles on [https://www.rkvirus.me/blogs/](https://www.rkvirus.me/blogs/)
 
-- 💬 Ask me about **React-Native, Python and Chemistry**
+- 💬 Ask me about **React, Python and Chemistry**
 
-- 📫 How to reach me **ravim70655@gmail.com**
+- 📫 How to reach me, **ravim70655@gmail.com**
 
 - ⚡ Fun fact **I think it's strange to have Chemistry Hons degree with Computer Science skills.**
 
