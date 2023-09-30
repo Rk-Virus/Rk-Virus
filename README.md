@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **NUTS Stack**
 
+- 🌱 What I know ? **MERN, Django, ReactNative**
+
 - 👨‍💻 All of my projects are available at [github.com/rk-virus](github.com/rk-virus)
 
 - 📝 I regularly write articles on [https://www.rkvirus.me/blogs/](https://www.rkvirus.me/blogs/)
