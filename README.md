@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/rk-virus](github.com/rk-virus)
 
-- 📝 I regularly write articles on [https://www.rkvirus.me/blogs/](https://www.rkvirus.me/blogs/)
+- 📝 I regularly write articles on [https://www.rkvirus.vercel.app/blogs/](https://www.rkvirus.me/blogs/)
 
 - 💬 Ask me about **React, Python and Chemistry**
 
