@@ -8,7 +8,7 @@
 
 - 🌱 What I know ? **MERN, Django, ReactNative + DSA**
 
-- 👨‍💻 All of my projects are available at [github.com/rk-virus->repos]([github.com/rk-virus](https://github.com/Rk-Virus?tab=repositories))
+- 👨‍💻 All of my projects are available at [github.com/rk-virus->repos](https://github.com/Rk-Virus?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.rkvirus.vercel.app/blogs/](https://rkvirus.vercel.app/blogs)
 
