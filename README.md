@@ -4,15 +4,15 @@
 <p align="left"> <a href="https://twitter.com/rkmishra2003" target="blank"><img src="https://img.shields.io/twitter/follow/rkmishra2003?logo=twitter&style=for-the-badge" alt="rkmishra2003" /></a> </p>
 
 
-- 🌱 I’m currently learning **NUTS Stack**
+- 🌱 I’m currently learning **AI Integrations**
 
-- 🌱 What I know ? **MERN, Django, ReactNative**
+- 🌱 What I know ? **MERN, Django, ReactNative + DSA**
 
-- 👨‍💻 All of my projects are available at [github.com/rk-virus](github.com/rk-virus)
+- 👨‍💻 All of my projects are available at [github.com/rk-virus->repos]([github.com/rk-virus](https://github.com/Rk-Virus?tab=repositories))
 
 - 📝 I regularly write articles on [https://www.rkvirus.vercel.app/blogs/](https://rkvirus.vercel.app/blogs)
 
-- 💬 Ask me about **React, Python and Chemistry**
+- 💬 Ask me about **Fullstack, Reasoning and Chemistry**
 
 - 📫 How to reach me, **ravim70655@gmail.com**
 
